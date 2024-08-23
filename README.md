@@ -20,7 +20,7 @@ Some miscellaneous information:
 <img src="https://user-images.githubusercontent.com/59719046/138639626-48336732-ca8f-4bfe-8063-0e1f7a7c6ae6.png" width=50% height=50%>
 
 ## Models Tried
-All the note books are availabel [here]("https://github.com/vishalrk1/SkimLit/tree/main/Notebooks")
+All the note books are availabel [here]("https://github.com/Rudransh3/SkimLit/tree/main/Notebooks")
 
 - NaiveBiase Model -> 72% Accuracy
 - Conv1D Model -> 78% Accuracy
@@ -59,16 +59,13 @@ All the note books are availabel [here]("https://github.com/vishalrk1/SkimLit/tr
 
 
 <p align="start">
-    <a href="https://github.com/vishalrk1" target="_blank">
+    <a href="https://github.com/Rudransh3" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/Github-%23F37626.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
     </a>
 <!--     <a href="https://twitter.com/ArizArmeidi" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-2CA5E0?logo=twitter&style=for-the-badge&logoColor=white&color=black" alt="Twitter" />
     </a> -->
-    <a href="https://www.linkedin.com/in/vishal-karangale-126492216/" target="_blank">
+    <a href="https://www.linkedin.com/in/rudransh-gupta-373243206/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23F37626.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;
-    </a>
-     <a href="https://www.instagram.com/vishal_rk1/" target="_blank">
-       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23F37626.svg?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;
     </a>
 </p>
